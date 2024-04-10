@@ -1,0 +1,15 @@
+D:\isrpo_spring\lab_1\server\server\bin\Debug\server.exe.config
+D:\isrpo_spring\lab_1\server\server\bin\Debug\server.exe
+D:\isrpo_spring\lab_1\server\server\bin\Debug\server.pdb
+D:\isrpo_spring\lab_1\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\isrpo_spring\lab_1\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\isrpo_spring\lab_1\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\isrpo_spring\lab_1\server\server\obj\Debug\server.exe
+D:\isrpo_spring\lab_1\server\server\obj\Debug\server.pdb
+C:\Users\429192-9\Desktop\lab_1\server\server\bin\Debug\server.exe.config
+C:\Users\429192-9\Desktop\lab_1\server\server\bin\Debug\server.exe
+C:\Users\429192-9\Desktop\lab_1\server\server\bin\Debug\server.pdb
+C:\Users\429192-9\Desktop\lab_1\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\429192-9\Desktop\lab_1\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\429192-9\Desktop\lab_1\server\server\obj\Debug\server.exe
+C:\Users\429192-9\Desktop\lab_1\server\server\obj\Debug\server.pdb
